@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "@hazae41/rsa.wasm",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "WebAssembly port of RSA",
   "homepage": "https://github.com/hazae41/rsa.wasm",
   "repository": "github:hazae41/rsa.wasm",
