@@ -4,7 +4,7 @@ use crate::RsaPublicKey;
 
 use memory_wasm::Memory;
 
-use crate::rjse;
+use crate::libs::jse::rjse;
 
 #[wasm_bindgen]
 pub struct RsaPrivateKey {
